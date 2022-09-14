@@ -1,7 +1,14 @@
 module.exports = [
   {
+    name: "Jianmin Chen",
+    description: "Just thoughts on programming.",
+    url: "https://jianminchen.com",
+    tags: ["HTML", "CSS", "JavaScript", "Full-stack", "NextJS"],
+  },
+  {
     name: "2minsDevsNotes",
-    description: "Github-based fast-to-read blog about dev's daily routine challenges",
+    description:
+      "Github-based fast-to-read blog about dev's daily routine challenges",
     url: "https://github.com/vtcaregorodtcev/2minsDevsNotes",
     twitter: "@v_hadoocken",
     tags: [
@@ -1683,11 +1690,21 @@ module.exports = [
     tags: ["Web Design", "WordPress", "SEO"],
   },
   {
-    name: 'DevTales',
-    description: 'Yet Another Technical Blog',
-    url: 'https://devtales.tech',
-    twitter: '@devtales_dev',
-    tags: ['HTML', 'AI', 'JavaScript', 'Python', 'Data Science', 'Machine Learning', 'Development', 'Programming', 'DevOps'],
+    name: "DevTales",
+    description: "Yet Another Technical Blog",
+    url: "https://devtales.tech",
+    twitter: "@devtales_dev",
+    tags: [
+      "HTML",
+      "AI",
+      "JavaScript",
+      "Python",
+      "Data Science",
+      "Machine Learning",
+      "Development",
+      "Programming",
+      "DevOps",
+    ],
   },
   {
     name: "Alexander Lichter",
@@ -2356,7 +2373,8 @@ module.exports = [
   },
   {
     name: "Ammaar's Blog",
-    description: "Articles on Web Development🌐(React, NextJS, HTML, CSS, Tailwind CSS), Productivity📈 and Programming in General👩‍💻, to help you become a better developer.",
+    description:
+      "Articles on Web Development🌐(React, NextJS, HTML, CSS, Tailwind CSS), Productivity📈 and Programming in General👩‍💻, to help you become a better developer.",
     url: "https://ammaaraslam.hashnode.dev",
     twitter: "@itsammaar_7",
     tags: [
@@ -3414,7 +3432,15 @@ module.exports = [
     description: "Good tech jobs in Japan",
     url: "https://japan-dev.com/blog",
     twitter: "@_etdev",
-    tags: ["Tech", "Jobs", "Japan", "Engineering", "Design", "Product", "Startups"],
+    tags: [
+      "Tech",
+      "Jobs",
+      "Japan",
+      "Engineering",
+      "Design",
+      "Product",
+      "Startups",
+    ],
   },
   {
     name: "Alexandre Nédélec",
@@ -4232,8 +4258,7 @@ module.exports = [
 
   {
     name: "Masteringbackend",
-    description:
-      "A great resource for backend engineers",
+    description: "A great resource for backend engineers",
     url: "https://masteringbackend.com",
     twitter: "@master_backend",
     tags: [
@@ -4265,7 +4290,7 @@ module.exports = [
       "Golang",
       "Linux",
       "Vim",
-      "Neovim"
+      "Neovim",
     ],
   },
 ];
